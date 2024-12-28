@@ -1,6 +1,6 @@
 # Angular Studies Advanced Components
 
-This study project showcases several advanced features in using Angular's built-in directives and in Angular + Typescript components development including styling components (with encapsulation), modifying host DOM elements, modifying templates with content projection, accessing neighbor directives, using lifecycle hooks, and detecting changes.
+This self-directed study project showcases several advanced features in using Angular's built-in directives and in Angular + Typescript components development including styling components (with encapsulation), modifying host DOM elements, modifying templates with content projection, accessing neighbor directives, using lifecycle hooks, and detecting changes.
 
 Tip: use --inline-style=true --inline-template=true flags when generating an app or a component so that CSS and HTML files aren't generated if writing the CSS and HTML inline, in the component file.
 
