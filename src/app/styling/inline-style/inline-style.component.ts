@@ -15,7 +15,7 @@ import { Component, OnInit } from '@angular/core';
   template: `
     <h4 class="ui horizontal divider header">Inline style example</h4>
     <div class="highlight">
-      This uses the component <code>styles</code> property
+      This component uses the component <code>styles</code> property
     </div>
   `,
 })

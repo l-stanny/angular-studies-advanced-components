@@ -5,7 +5,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
   template: `
     <h4 class="ui horizontal divider header">No encapsulation example</h4>
     <div class="highlight">
-      This uses the component <code>ViewEncapsulation.none</code> property and
+      This component uses the component <code>ViewEncapsulation.none</code> property and
       leaks styles into other components. Comment out this component selector
       <code
         ><span ngNonBindable
@@ -20,6 +20,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
         border: 1px solid #40d9f3;
         text-align: center;
         margin-bottom: 20px;
+        padding: 0.8em;
       }
     `,
   ],
