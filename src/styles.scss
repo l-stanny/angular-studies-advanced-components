@@ -22,3 +22,28 @@ div.highlight {
   margin-bottom: 2.5em;
   margin-top: 3px;
 }
+footer {
+  color: #545454;
+  font-style: normal;
+  font-size: 0.9em;
+  line-height: 14px;
+  width: 100%;
+  background-color: #ccc;
+  position: fixed;
+  bottom: 0px;
+  text-align: center;
+  padding-top: 0.8em;
+  padding-bottom: 0.6em
+}
+footer a {
+  color: #545454;
+  font-style: normal;
+  font-weight: bold;
+}
+footer p {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+address {
+  font-style: normal;
+}
