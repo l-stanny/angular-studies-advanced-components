@@ -43,7 +43,7 @@ export class Host4Directive {
         elements in the host DOM element
       </div>
       <p>
-        This displays an alert displaying messages inside of the alarm icon and
+        This displays an alert displaying messages about the alarm icon and
         the containing div host DOM element (a div) when corresponding buttons
         outside of the alarm icon and the containing div host Dom element (a
         different div) are clicked.
