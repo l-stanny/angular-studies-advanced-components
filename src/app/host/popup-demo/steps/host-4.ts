@@ -55,7 +55,7 @@ export class Host4Directive {
         #dataoutsidehostelement2="data-outsidehostelement"
       ></i>
     </div>
-    <div style="padding-bottom:20px;">
+    <div style="padding-bottom:120px;">
       <button
         (click)="dataoutsidehostelement1.displayMessage()"
         class="ui button"
