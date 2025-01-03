@@ -16,6 +16,10 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
         text-align: center;
         margin-bottom: 20px;
       }
+      /* the following class from the root styles.scss file is not accessible due to native encapsulation and is shown here as an effective inline styling solution */
+      h4.ui.header {
+        font-family: Arial, Helvetica, sans-serif;
+      }
     `,
   ],
   styleUrls: ['../../../assets/vendor/semantic.min.css'],
