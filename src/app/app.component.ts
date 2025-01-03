@@ -6,5 +6,6 @@ import { Component, Inject } from '@angular/core';
   styleUrls: ['./app.component.scss'],
 })
 export class AppComponent {
+  title: any;
   constructor() {}
 }
