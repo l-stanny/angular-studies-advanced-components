@@ -4,7 +4,7 @@ import { Component, OnInit, ViewEncapsulation } from '@angular/core';
   selector: 'app-no-encapsulation',
   template: `
     <h4 class="ui horizontal divider header">No encapsulation example</h4>
-    <div class="highlight">
+    <div class="highlight" style="margin-bottom:120px;">
       This component uses the component <code>ViewEncapsulation.none</code> property and
       leaks styles into other components. Comment out this component selector
       <code
