@@ -4,7 +4,7 @@ This Angular project is a self-directed in advanced features using Angular's bui
 
 Tip: use --inline-style=true --inline-template=true flags when generating an app or a component so that CSS and HTML files aren't generated if writing the CSS and HTML inline, in the component file.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3 and upgraded to version 18.2.13.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.3 and upgraded consecutively through version 18.2.13.
 
 ## Development server
 
